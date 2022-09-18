@@ -1,8 +1,8 @@
 {
-    "name": "Fu2000/redis",
+    "name": "fu2000/redis",
     "autoload": {
         "psr-4": {
-            "Fu2000\\Redis\\": "src/"
+            "fu2000\\Redis\\": "src/"
         }
     },
     "authors": [
