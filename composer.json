@@ -1,0 +1,15 @@
+{
+    "name": "Fu2000/redis",
+    "autoload": {
+        "psr-4": {
+            "Fu2000\\Redis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "muhan666",
+            "email": "484370759@qq.com"
+        }
+    ],
+    "require": {}
+}
